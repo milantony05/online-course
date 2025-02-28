@@ -64,7 +64,7 @@ To run this project locally:
 
 ## Demo
 
-![1](https://github.com/user-attachments/assets/073f6aeb-3285-43b8-84cc-6f5223599945)
+![1](https://github.com/user-attachments/assets/1fa136b7-0895-4aa5-ae6a-41aaa00889a5)
 
 ![2](https://github.com/user-attachments/assets/61a0dac4-573e-4589-a743-0f70af230644)
 

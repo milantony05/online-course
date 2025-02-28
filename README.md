@@ -43,8 +43,8 @@ To run this project locally:
    ```bash
    python manage.py runserver
    ```
-8. **Running the application**:
-   Admin site: Append `/admin` to the url
+8. **Running the application**:<br>
+   Admin site: Append `/admin` to the url<br>
    Online course site: Append `/onlinecourse` to the url
 
 ## Features
@@ -70,4 +70,6 @@ To run this project locally:
 
 ![3](https://github.com/user-attachments/assets/b740939e-cf1e-4b2d-b37b-42f35ebd1f99)
 
-![4](https://github.com/user-attachments/assets/1871b01f-8adf-4298-8143-806e96967110)
+![4](https://github.com/user-attachments/assets/fa25202c-ebc0-471c-990f-63cc6e6af91f)
+
+![5](https://github.com/user-attachments/assets/4e683998-482a-4c9e-9815-8439f01c9fe2)

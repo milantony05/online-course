@@ -64,12 +64,12 @@ To run this project locally:
 
 ## Demo
 
-![1](https://github.com/user-attachments/assets/1fa136b7-0895-4aa5-ae6a-41aaa00889a5)
+![1](https://github.com/user-attachments/assets/15f4aa42-9d80-48ed-a4e0-5fd771751e22)
 
-![2](https://github.com/user-attachments/assets/61a0dac4-573e-4589-a743-0f70af230644)
+![2](https://github.com/user-attachments/assets/2f19a5be-f842-4edc-b617-3d95bd9c1584)
 
-![3](https://github.com/user-attachments/assets/b740939e-cf1e-4b2d-b37b-42f35ebd1f99)
+![3](https://github.com/user-attachments/assets/592277ec-4ebc-4ac9-b5c2-3f8239b8e4ba)
 
-![4](https://github.com/user-attachments/assets/fa25202c-ebc0-471c-990f-63cc6e6af91f)
+![4](https://github.com/user-attachments/assets/0b95d4d3-1354-4870-9c6b-2f512bbe6c22)
 
-![5](https://github.com/user-attachments/assets/4e683998-482a-4c9e-9815-8439f01c9fe2)
+![5](https://github.com/user-attachments/assets/ed5c4865-b0bf-4558-8d89-4eaf92d8ee5a)
